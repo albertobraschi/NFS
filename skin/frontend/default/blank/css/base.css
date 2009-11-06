@@ -1,9 +1,10 @@
 @charset "utf-8";
+div.Fabricantes { display: none; }
 /* reset */
-html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,images,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{border:0;outline:0;vertical-align:baseline;background:transparent;margin:0;padding:0;}
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{border:0;outline:0;vertical-align:baseline;background:transparent;margin:0;padding:0;}
 * {border:0 none;list-style-image:none;list-style-position:outside;list-style-type:none;margin:0;outline-style:none;outline-width:0;padding:0;}
 /* base */
-body {background:url(../images/bg-body.gif) repeat-x 0 -10px #fff1f9;font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;font-size:0.9em;}
+body {background:url(../images/bg-body.gif) repeat-x top #fff1f9;font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;font-size:0.9em;}
 .content{width:100%;float:left;}
 .content-center{width:1000px; margin:auto;display:table;}
 .hide {display:none;}
@@ -36,7 +37,7 @@ a.logo{background:url(../images/logo.gif) no-repeat;width:190px;height:73px;disp
 
 /* geral */
 .barra {float:left;width:100%;padding-top:27px;}
-.main {float:left;width:100%;padding-top:10px;} .main.internas{padding-top:27px;}
+.main {float:left;width:100%;padding-top:10px;}
 .left {float:left;width:190px;}
 .right {float:right;width:190px;}
 .center {float:left;width:600px;padding: 0 10px;}
@@ -45,8 +46,9 @@ a.logo{background:url(../images/logo.gif) no-repeat;width:190px;height:73px;disp
 /* boxes */
 .box-side {padding: 28px 9px 10px 9px;background:url(../images/bg-box-top-side.png) no-repeat;width:165px;float:left;}
 .box-side .box-side-center {width:148px;background:#fff;padding:0 10px;float:left;}
-.box-side-close {background:url(../images/bg-box-botton-side.png) no-repeat;width:190px;height:38px;float:left;display:block;clear:both;margin:0 0 0 -9px;}
+.box-side-close {background:url(../images/bg-box-botton-side.png) no-repeat;width:190px;height:38px;float:left;display:block;clear:both;margin:-2px 0 0 -9px;}
 .box-side h3{text-indent:-9999px;margin:auto;width:100%;display:block;}
+.box-center {}
 .categoria ul li {text-align:right;width:170px;}
 .categoria ul li a{color:#414141;font-size:0.85em;padding: 3px 30px 5px 0;display:block;}
 /* boxes */
@@ -60,16 +62,16 @@ h3.newsletter {background:url(../images/newsletter.gif) no-repeat center;margin-
 
 /* cores */
 /*set para todas as cores */.categoria h4{float:left;width:160px;color:#fff;padding:9px 20px 8px 0;text-align:right;text-transform:uppercase;margin:10px 0 6px -10px;*padding:5px 15px 8px 0}
-.cabelos h4{background:url(../images/categoria-1.png) no-repeat;}
-.cabelos ul li a:hover {background:url(../images/categoria-icon-1.gif) no-repeat right bottom;color:#ff45a6;}
-.conjuntos h4{background:url(../images/categoria-2.png) no-repeat;}
-.conjuntos ul li a:hover {background:url(../images/categoria-icon-2.gif) no-repeat right bottom;color:#f6073f;}
-.maquiagem h4{background:url(../images/categoria-3.png) no-repeat;}
-.maquiagem ul li a:hover {background:url(../images/categoria-icon-3.gif) no-repeat right bottom;color:#af05e7;}
-.ofertas h4{background:url(../images/categoria-4.png) no-repeat;}
-.ofertas ul li a:hover {background:url(../images/categoria-icon-4.gif) no-repeat right bottom;color:#5112e1;}
-.profissionais h4{background:url(../images/categoria-5.png) no-repeat;}
-.profissionais ul li a:hover {background:url(../images/categoria-icon-5.gif) no-repeat right bottom;color:#2197db;}
+.Cabelos h4{background:url(../images/categoria-1.png) no-repeat;}
+.Cabelos ul li a:hover {background:url(../images/categoria-icon-1.gif) no-repeat right bottom;color:#ff45a6;}
+.Conjuntos h4{background:url(../images/categoria-2.png) no-repeat;}
+.Conjuntos ul li a:hover {background:url(../images/categoria-icon-2.gif) no-repeat right bottom;color:#f6073f;}
+.Maquiagem h4{background:url(../images/categoria-3.png) no-repeat;}
+.Maquiagem ul li a:hover {background:url(../images/categoria-icon-3.gif) no-repeat right bottom;color:#af05e7;}
+.Ofertas h4{background:url(../images/categoria-4.png) no-repeat;}
+.Ofertas ul li a:hover {background:url(../images/categoria-icon-4.gif) no-repeat right bottom;color:#5112e1;}
+.Profissionais h4{background:url(../images/categoria-5.png) no-repeat;}
+.Profissionais ul li a:hover {background:url(../images/categoria-icon-5.gif) no-repeat right bottom;color:#2197db;}
 /* cores */
 
 /* listagem produtos */
@@ -79,7 +81,7 @@ h3.newsletter {background:url(../images/newsletter.gif) no-repeat center;margin-
 .produto h4 {color:#90099c;font-size:1.2em;}
 .produto h4 span {color:#e36ffc;font-size:0.7em;text-decoration:line-through;clear:both;display:block;}
 .produto p {color:#626262;font-size:0.8em;width:90%;display:table;margin:auto;margin-top:3px;}
-.produto button {background:url(../images/bt-comprar.gif) no-repeat;width:143px;height:33px;cursor:pointer;text-indent:-9999px;display:block;}
+.produto button.button {background:url(../images/bt-comprar.gif) no-repeat;width:143px;height:30px;cursor:pointer;text-indent:-9999px;display:block;}
 /* listagem produtos */
 
 /* lojas especiais */
@@ -98,7 +100,7 @@ h3.newsletter {background:url(../images/newsletter.gif) no-repeat center;margin-
 /* mais vendidos */
 .mais-vendidos-list a {color:#c9048f;font-size:0.8em;}
 .mais-vendidos-list li {float:left;margin-top:5px;}
-.mais-vendidos-list li images{float:left;margin-right:5px;}
+.mais-vendidos-list li img{float:left;margin-right:5px;}
 .mais-vendidos-list li span{color:#900066;font-size:1.2em;}
 /* mais vendidos */
 
@@ -112,8 +114,13 @@ h3.newsletter {background:url(../images/newsletter.gif) no-repeat center;margin-
 .newsletter-list button {background:url(../images/bt-cadastrar.gif) no-repeat;width:144px;height:20px;text-indent:-9999px;cursor:pointer;}
 /* newsletter */
 
+
 /* home */
-body.home{background-position: 0 82px;}
+body.cms-home{background-position: 0 82px;}
+
+/* categorias */
+body.catalog-category-view{background-position: 0 82px;}
+
 /* busca*/
 .busca {float:left;width:155px;height:80px;background:url(../images/bg-busca.gif) no-repeat;color:#fff;padding:17px;}
 .busca input {background:none;margin-top:4px;padding:3px;color:#aa3eb3;width:110px;font-size:0.9em;float:left;}
@@ -122,6 +129,11 @@ body.home{background-position: 0 82px;}
 .novidades {background:url(../images/novidades-sensus.gif) no-repeat;width:100%;height:46px;text-indent:-9999px;}
 /* home */
 
+/* internas */
+/* internas */
+
+/* institucionais */
+/* institucionais */
 
 /*rodape*/
 .rodape{width:100%;background:url(../images/bg-rodape.gif) repeat-x;float:left;height:295px;}
@@ -138,7 +150,7 @@ body.home{background-position: 0 82px;}
 .redes {width:75px;}
 .pagamentos {width:385px;}
 .pagamentos ul, .seguranca ul, .entregas ul{display:none;}
-.pagamentos images, .seguranca images, .entregas images{margin-left:5px;}
+.pagamentos img, .seguranca img, .entregas img{margin-left:5px;}
 .seguranca {width:180px;}
 .entregas {width:130px;}
 /*rodape*/
