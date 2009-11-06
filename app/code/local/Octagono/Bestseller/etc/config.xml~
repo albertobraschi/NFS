@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <ActiveCodeline_Bestseller>
+            <version>1.0.0</version>
+        </ActiveCodeline_Bestseller>
+    </modules>
+
+	<frontend> 
+        <layout>
+            <updates>
+                <bestseller>
+                    <file>bestseller.xml</file>
+                </bestseller>
+            </updates>
+        </layout>
+	</frontend>
+	
+	<global>
+		<models>
+			<bestseller>
+				<class>ActiveCodeline_Bestseller_Model</class>
+			</bestseller>
+		</models>
+		
+		
+        <blocks>
+            <bestseller>
+                <class>ActiveCodeline_Bestseller_Block</class>
+            </bestseller>
+        </blocks>		
+		
+	</global>
+	 
+</config>

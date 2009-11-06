@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <default>
+        <reference name="right">
+            <block type="bestseller/bestseller" name="bestseller" template="catalog/navigation/bestseller.phtml" />
+        </reference>
+    </default>
+</layout>
+

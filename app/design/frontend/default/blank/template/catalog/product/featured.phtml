@@ -1,0 +1,31 @@
+<?php $featured_products = $this->getFeaturedProducts(); ?>
+<?php shuffle($featured_products); ?>
+
+<h2 class="novidades"><?php echo $this->__('Novidades Sensus') ?></h2>
+
+<?php $_collectionSize = count($featured_products) ?>
+    <?php $i=0; foreach ($featured_products as $_res): ?>
+        <?php $_product = Mage::getModel('catalog/product')->load($_res['product_id']); ?>
+            <?php if ($i++%4==0): ?>
+                <div class="linha">
+            <?php endif ?>
+
+            <div class="produto">
+                <a href="<?php echo $_product->getProductUrl() ?>" title="<?php echo $this->htmlEscape($_product->getName()) ?>">
+                    <img class="product-image" src="<?php echo $this->helper('catalog/image')->init($_product, 'small_image')->resize(135, 135); ?>" alt="<?php echo $this->htmlEscape($_product->getName()) ?>" />
+                </a>
+                <h3><?php echo $this->htmlEscape($_product->getName()) ?></h3>
+                <h4><?php echo $this->getPriceHtml($_product, false) ?></h4>
+                <p>Ou em até 3x de R$ <?php echo Mage::helper('core')->currency(number_format($_product->getFinalPrice()/3,2)); ?> no cartão</p>
+                <button type="button" class="button" onclick="setLocation('<?php echo $this->getAddToCartUrl($_product) ?>')"><span><?php echo $this->__('Add to Cart') ?></span></button>
+            </div>
+
+            <?php if ($i%4==0 && $i!=$_collectionSize): ?>
+            </div>
+            <?php endif ?>
+
+    <?php endforeach ?>
+    <?php if ($i%3==0): ?>
+        </div>
+    <?php endif ?>
+

@@ -1,0 +1,267 @@
+
+<!-- menu start -->
+
+<!-- menu end -->
+<div class="nav-bar">
+    <ul id="nav">
+                <li  class="   level0"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/dashboard/index/key/cdfbaae32231babbbc5622d9e1021d9d/"   class=""><span>Painel</span></a>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Vendas</span></a>
+                                <ul >
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/sales_order/index/key/a6ef58fae6a58a84eecbdec56a1112d1/"   class=""><span>Pedidos</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/sales_invoice/index/key/b64f6d94c15197811457c30df1c10e73/"   class=""><span>Faturas</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/sales_shipment/index/key/d3c2cac9584d4bab77efa727cc5a5c8a/"   class=""><span>Envios</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/sales_creditmemo/index/key/995d850ffc736ff941128726b2f035a5/"   class=""><span>Memorandos de crédito</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/checkout_agreement/index/key/7cbd2f11da6cd4d211bbd695dc32f306/"   class=""><span>Termos e condições</span></a>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent last level1"> <a href="#"  onclick="return false" class=""><span>Imposto</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/tax_rule/index/key/eaca2cd74907abc3dae049c77d41bf65/"   class=""><span>Gerenciar regras de imposto</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/tax_rate/index/key/494f5fec6b3708e70189648a9df1fd93/"   class=""><span>Gerenciar impostos e tarifas</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/tax_rate/importExport/key/b15a94eabe4b6f08c54ec5dcf5b9fcd4/"   class=""><span>Importar / Exportar taxas de impostos</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/tax_class_customer/index/key/940a34d56017a6f0ebb1f038d662d18e/"   class=""><span>Classes de impostos de cliente</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/tax_class_product/index/key/3fef1eae392f24dea52df6301ca1b628/"   class=""><span>Classes de impostos de produto</span></a>
+                    </li>
+            </ul>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Catálogo</span></a>
+                                <ul >
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/catalog_product/index/key/e69dd6a03a6313cb16b536628a42fa00/"   class=""><span>Gerenciar produtos</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/catalog_category/index/key/11cf610da83a83929877d36a4165e317/"   class=""><span>Gerenciar categorias</span></a>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Atributos</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/catalog_product_attribute/index/key/fd6d14825cef71adcad4f84ad7282638/"   class=""><span>Gerenciar atributos</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/catalog_product_set/index/key/c5c11469d1b59cbf64c06a37515e4fe7/"   class=""><span>Gerenciar grupo de atributos</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/urlrewrite/index/key/cff567fd83154f8a5ff2a95107003e17/"   class=""><span>Gerenciamento de Urlrewrite</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/catalog_search/index/key/2ab7567d66b6142a4b3d1dd1bd9bcdae/"   class=""><span>Buscar</span></a>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Opiniões e avaliações</span></a>
+                                <ul >
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level2"> <a href="#"  onclick="return false" class=""><span>Opiniões do cliente</span></a>
+                                <ul >
+                <li  class="   level3"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/catalog_product_review/pending/key/9b705689d46fae7e1c8ec31a6f053915/"   class=""><span>Opiniões pendentes</span></a>
+                    </li>
+                <li  class="   last level3"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/catalog_product_review/index/key/6c91e2d66e6a7e089e17c9b80ad2a84b/"   class=""><span>Todas opiniões</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li  class="   last level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/rating/index/key/beb847e4d20527a83959ce09cbe569ec/"   class=""><span>Gerenciar votos</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Tags</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/tag/pending/key/704ef6a800482274a006fb884e6e9c33/"   class=""><span>Tags pendentes</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/tag/index/key/d42124a2550e65830ba44615e54daa61/"   class=""><span>Todas as tags</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Base do Google</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/googlebase/types/index/key/f277f11b2be7b75d803b450d1f068cbc/"   class=""><span>Gerenciar atributos</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/googlebase/items/index/key/1a7d9ed546e4071f3589be84e0f34881/"   class=""><span>Gerenciar itens</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li  class="   last level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/sitemap/index/key/d4648bb269996b52dd4b0f858e06116f/"   class=""><span>Mapa do site do Google</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Clientes</span></a>
+                                <ul >
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/customer/index/key/c6e38592f6b7b18953fe1f8ef5e73bc4/"   class=""><span>Gerenciar clientes</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/customer_group/index/key/6a0f01fbcd68c5fae7ed982ee6ab92aa/"   class=""><span>Grupos de clientes</span></a>
+                    </li>
+                <li  class="   last level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/customer_online/index/key/4ca6291cc5df844321070e33f7f7daba/"   class=""><span>Clientes online</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Promoções</span></a>
+                                <ul >
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/promo_catalog/index/key/2ea2338ab22c860c780b0c2af088344f/"   class=""><span>Regras de preço do catálogo</span></a>
+                    </li>
+                <li  class="   last level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/promo_quote/index/key/462adc0ce61a296d5699b49f6e7f90c2/"   class=""><span>Regras de preço do carrinho de compras</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Boletim informativo</span></a>
+                                <ul >
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/newsletter_template/index/key/2152a9dab420e5e77df1f83b5fe04150/"   class=""><span>Modelos de boletim informativo</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/newsletter_queue/index/key/b7c7063d8fe9a2e4979345429306055b/"   class=""><span>Fila do boletim informativo</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/newsletter_subscriber/index/key/440d5496036033ca9dbb6ba11f150887/"   class=""><span>Assinantes do boletim informativo</span></a>
+                    </li>
+                <li  class="   last level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/newsletter_problem/index/key/d2aff348e9a7c97f242b0b67c88b8425/"   class=""><span>Relatórios de problemas do boletim informativo</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>CMS</span></a>
+                                <ul >
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/cms_page/index/key/27f8ef8b7c95552acc0ac285b4757bfc/"   class=""><span>Gerenciar páginas</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/cms_block/index/key/b7831ca46a63056f888a00e1de789e78/"   class=""><span>Blocos estáticos</span></a>
+                    </li>
+                <li  class="   last level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/poll/index/key/14722b1101679fd568678a015d796f73/"   class=""><span>Gerenciador de pesquisa</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Relatórios</span></a>
+                                <ul >
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Vendas</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_sales/sales/key/169aede316e999f04638acfd4585249d/"   class=""><span>Relatório de vendas</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_sales/tax/key/0f47f350590d20049e192f0588ee9972/"   class=""><span>Imposto</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_sales/shipping/key/6dde4d14418f5b5ce2da3e84d037268d/"   class=""><span>Envio</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_sales/invoiced/key/6bde710f4ae1f3ccec93b3afcf4c6e63/"   class=""><span>Total faturado</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_sales/refunded/key/baca2dff4bf26b246451135b5e4857ae/"   class=""><span>Total reembolsado</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_sales/coupons/key/f980fbbb47cc03c6890cdf0c3265f1a9/"   class=""><span>Cupons</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Carrinho de compras</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_shopcart/product/key/53ad713904f95fe4d4abdbdf3a46b89a/"   class=""><span>Produtos no carrinho</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_shopcart/abandoned/key/75e9a6f6b516eb90aa7a5dcace886bd4/"   class=""><span>Carrinhos abandonados</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Produtos</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_product/ordered/key/23255a8ffb308eea32e9c2f5e9bcb7ef/"   class=""><span>Mais vendidos</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_product/sold/key/e5c953f5ae91d0757563b9d6c1d47050/"   class=""><span>Products Ordered</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_product/viewed/key/09d309b14865560499d5670b04c623dd/"   class=""><span>Mais visitados</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_product/lowstock/key/081242ae241614890d54afa50156be0b/"   class=""><span>Estoque baixo</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_product/downloads/key/e9ebdec7bdfb2b4ccc71b51634b2e8e6/"   class=""><span>Downloads</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Clientes</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_customer/accounts/key/b87a38142bd53b157ea37094af43db1f/"   class=""><span>Novas contas</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_customer/totals/key/c2dd3e58e30d92762faf5a4c85d59906/"   class=""><span>Clientes por total de pedidos</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_customer/orders/key/7b01e47cf1139a334d013ec5bdfaa658/"   class=""><span>Clientes por número de pedidos</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Opiniões</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_review/customer/key/75b8c47cd3106fe0cfb1b9271ec30bfd/"   class=""><span>Opiniões de clientes</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_review/product/key/9d10f250e1110d8e593b530c21bc7af1/"   class=""><span>Opiniões de produtos</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Tags</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_tag/customer/key/b9a817b91567256f4ecd3f00bc5a2808/"   class=""><span>Clientes</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_tag/product/key/1adfdc817526bbb2ac7f256076095dae/"   class=""><span>Produtos</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report_tag/popular/key/26269fb57b54dcfcb107503018730ba6/"   class=""><span>Popular</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li  class="   last level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/report/search/key/94922c1d1d6d39bb9f948081db539b60/"   class=""><span>Termos de busca</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  active  parent level0"> <a href="#"  onclick="return false" class="active"><span>Sistema</span></a>
+                                <ul >
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/system_account/index/key/a6a689272e3c1fce91d45b1e641a28d0/"   class=""><span>Minha conta</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/notification/index/key/c169e3f13d2a643ff7abeb39ccfd6f8d/"   class=""><span>Notificações</span></a>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Ferramentas</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/system_backup/index/key/364f6e21b6568f7ecd93effb14169df5/"   class=""><span>Backups</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/compiler/process/index/key/a33e51fa412ae3e104a0b8eb5f8fde4a/"   class=""><span>Compilation (Beta)</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Serviços web</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/api_user/index/key/7a8fce5310e712045a9ce621510c3553/"   class=""><span>Usuários</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/api_role/index/key/aa0c932dce91e92f4ececd1c1f0cf101/"   class=""><span>Cargos</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/system_design/index/key/a7a3f71fe45e78c8fb7f35462c5b318d/"   class=""><span>Design</span></a>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Importar/Exportar</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/system_convert_gui/index/key/c160b1459d32c2b6f5949a9b420dbea7/"   class=""><span>Perfis</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/system_convert_profile/index/key/1918a4519314dfe9e76d5e5bc3fce760/"   class=""><span>Perfis avançados</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/system_currency/index/key/29dc5e253b28b9294a12d3c0c520d85d/"   class=""><span>Gerenciar taxas de moedas</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/system_email_template/index/key/4019c4c400be73416dfe7ee9a82981c0/"   class=""><span>E-mails transacionais</span></a>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Permissões</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/permissions_user/index/key/b6d5c1bab69143592cffbe29c7316b02/"   class=""><span>Usuários</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/permissions_role/index/key/85b192a36c27bb60ea476465cc91050c/"   class=""><span>Cargos</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Magento Connect</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/extensions_local/index/key/d8df3e1399e574c79417d3ba013e117e/"   class=""><span>Gerenciador magento connect</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/extensions_custom/index/key/03637b4d30f334695840e3860ab46eff/"   class=""><span>Extensões de pacote</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/system_cache/index/key/2582d0971ba79dc9df534f4a691ac5f9/"   class=""><span>Gerenciador de cache</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/system_store/index/key/0d81b26ba1a4b782143d8119576a1d0f/"   class=""><span>Gerenciar lojas</span></a>
+                    </li>
+                <li  class="   last level1"> <a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/index.php/admin/system_config/index/key/ab9aa49a1022e13956afb1027099fc25/"   class=""><span>Configuração</span></a>
+                    </li>
+            </ul>
+                    </li>
+            </ul>
+
+    <a id="page-help-link" href="http://www.magentocommerce.com/gethelp/pt_BR/Mage_Adminhtml/system_backup/index/">Obter ajuda para esta página</a>
+    <script type="text/javascript">$('page-help-link').target = 'magento_page_help'</script>
+
+</div>
+

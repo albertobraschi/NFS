@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0
+http://pear.php.net/dtd/tasks-1.0.xsd
+http://pear.php.net/dtd/package-2.0
+http://pear.php.net/dtd/package-2.0.xsd">
+ <name><![CDATA[Locale_Mage_community_pt_BR]]></name>
+ <channel>connect.magentocommerce.com/community</channel>
+ <summary><![CDATA[Magento Community Modules -  Portuguese (Brazil) Language Pack]]></summary>
+ <description><![CDATA[Magento Community Modules -  Portuguese (Brazil) Language Pack]]></description>
+ <lead>
+  <name>Magento Core</name>
+  <user>magentoadmin</user>
+  <email>magentoadmin@magentocommerce.com</email>
+  <active>yes</active>
+ </lead>
+ <date>2009-08-12</date>
+ <time>16:55:21</time>
+ <version>
+  <release>1.2.0.0.2</release>
+  <api>1.0</api>
+ </version>
+ <stability>
+  <release>beta</release>
+  <api>beta</api>
+ </stability>
+ <license>AFL v3.0</license>
+ <notes><![CDATA[Magento Community Modules -  Portuguese (Brazil) Language Pack]]></notes>
+ <contents>
+  <dir name="/">
+    <dir name="/pt_BR">
+      <file md5sum="7120efe20d9c8ad19e8c522c7c8e5044" name="Mage_GoogleOptimizer.csv" role="magelocale" />
+      <file md5sum="f72b2d85f9173e3ee43e67c258008a75" name="Mage_Contacts.csv" role="magelocale" />
+      <file md5sum="ea81ca3f557623dee582ff7c84e5884b" name="Mage_Cms.csv" role="magelocale" />
+      <file md5sum="07831812ed785e8e06426fe659ca0c77" name="Mage_Strikeiron.csv" role="magelocale" />
+      <file md5sum="e10b9cf26889886e7be3814cc4c051da" name="Mage_Shipping.csv" role="magelocale" />
+      <file md5sum="42656190df8fb2df7afd657e0dcaab33" name="Mage_Api.csv" role="magelocale" />
+      <file md5sum="c1c7648843e2a5e380ac64d153c0c46f" name="Mage_Cron.csv" role="magelocale" />
+      <file md5sum="ada850cb5bfb4d8b91292aef482b816f" name="Mage_Payment.csv" role="magelocale" />
+      <file md5sum="ac15116e747b937b5184fdb478dc056d" name="Mage_Email_Templates.csv" role="magelocale" />
+      <file md5sum="c219feeaf2611605170d747ea149e897" name="Mage_Tax.csv" role="magelocale" />
+      <file md5sum="337ce20c9f8af728eef2b3e2839f3327" name="Mage_Rating.csv" role="magelocale" />
+      <file md5sum="dbdedab9e1f199096b3ff6cb45bbd6d8" name="Mage_Media.csv" role="magelocale" />
+      <file md5sum="ccfc30d1d191b62e609eaa4857d75db2" name="Mage_Page.csv" role="magelocale" />
+      <file md5sum="827da836103f8ee49f35ebfd86b0d570" name="Mage_GoogleAnalytics.csv" role="magelocale" />
+      <file md5sum="b5f0e5721c01ad15c0fdabbfe3f71fca" name="Mage_Backup.csv" role="magelocale" />
+      <file md5sum="3840df6d7c577b52672be17ca58102b9" name="Mage_GoogleBase.csv" role="magelocale" />
+      <file md5sum="a8190ee4badb2ab52bdfc1e32b7ee09d" name="Mage_Paygate.csv" role="magelocale" />
+      <file md5sum="ffba7c34cefa1f370badfbd3c4f0916a" name="Mage_ProductAlert.csv" role="magelocale" />
+      <file md5sum="6c8aedbd366aed27cdff7521c434a998" name="Mage_Catalog.csv" role="magelocale" />
+      <file md5sum="949aff2e223f8dac2da4f3e483a7977e" name="Mage_Reports.csv" role="magelocale" />
+      <file md5sum="89c70cce5f7f7b9277340682333e117a" name="Mage_Core.csv" role="magelocale" />
+      <file md5sum="8f7ff82cf076daa93803eb73496588be" name="Mage_GoogleCheckout.csv" role="magelocale" />
+      <file md5sum="a256b8efa804cb5b1b9dbac12840ac31" name="Mage_Downloadable.csv" role="magelocale" />
+      <file md5sum="5eb18b92d12098aa10319a7463e06536" name="Mage_Tag.csv" role="magelocale" />
+      <file md5sum="d8844f3c31d194a630cb6b040afc1ff4" name="Mage_GiftMessage.csv" role="magelocale" />
+      <file md5sum="708ac35cffa7789bceed35c3d02e57de" name="Mage_Rss.csv" role="magelocale" />
+      <file md5sum="ede671506ff7105d3d060188d2067769" name="Mage_CatalogSearch.csv" role="magelocale" />
+      <file md5sum="b9d98f3588616a47fc65fc1c66fe8acb" name="Mage_Dataflow.csv" role="magelocale" />
+      <file md5sum="6d9786d73cf609baec04e6d4e7e36104" name="Mage_Poll.csv" role="magelocale" />
+      <file md5sum="2411f4ed44d9c722cc5d9aeeddd5d3ee" name="Mage_SalesRule.csv" role="magelocale" />
+      <file md5sum="e46f0bd987ff267cfcaadc710744b652" name="Mage_Sendfriend.csv" role="magelocale" />
+      <file md5sum="5b3c3a32dfaa1ee877d28c9771ad0334" name="Mage_AdminNotification.csv" role="magelocale" />
+      <file md5sum="c673c9970a5f2f8567c18b956d16f364" name="Mage_Adminhtml.csv" role="magelocale" />
+      <file md5sum="3b4000a53b536ceb2c08ae72ea3eab81" name="Mage_Eav.csv" role="magelocale" />
+      <file md5sum="ed65f9a5ce9cb8a1c3c32675a49a55d4" name="Mage_CatalogRule.csv" role="magelocale" />
+      <file md5sum="9116e9a8a4943ed0a52642eee1efceef" name="Mage_Sales.csv" role="magelocale" />
+      <file md5sum="52f65868d99a9245297e119cfa1c5852" name="Mage_Sitemap.csv" role="magelocale" />
+      <file md5sum="4a15d85c2bd3dc1f25ea299ae532c832" name="Mage_Paypal.csv" role="magelocale" />
+      <file md5sum="a79cc94e4fa586752f0d0dda5f5a9f03" name="Mage_Rule.csv" role="magelocale" />
+      <file md5sum="e98cf17ce72e88a5d363082dbb12af9f" name="Mage_CatalogInventory.csv" role="magelocale" />
+      <file md5sum="71b56334d79007dfef3229532f12a5bd" name="Mage_Review.csv" role="magelocale" />
+      <file md5sum="ed40e7a0fcb943585f2ceb821c66b06d" name="Mage_Newsletter.csv" role="magelocale" />
+      <file md5sum="a9a7fa2e8a129974e0512890dfb7bc8a" name="Mage_Install.csv" role="magelocale" />
+      <file md5sum="2d8402cc2522da3567096b56922ee63d" name="Mage_Customer.csv" role="magelocale" />
+      <file md5sum="b57166bfa38ae5e871e77e90e9dcc59c" name="Mage_Usa.csv" role="magelocale" />
+      <file md5sum="5888f03fcfba7103b6a28bb6d1c97639" name="Mage_Wishlist.csv" role="magelocale" />
+      <file md5sum="6b40e567c312b5663c8696ae8725fae8" name="Mage_PaypalUk.csv" role="magelocale" />
+      <file md5sum="44b3f428dec62c74961e8c478814afe1" name="Mage_Bundle.csv" role="magelocale" />
+      <file md5sum="54604865137f5829c731386f21faaac4" name="Mage_Directory.csv" role="magelocale" />
+      <file md5sum="55ffdaff9b35420847021bef310c811a" name="Mage_Checkout.csv" role="magelocale" />
+      <file md5sum="273add20915c835feb93c104eeb86da7" name="Mage_Weee.csv" role="magelocale" />
+  </dir>
+</dir>
+</contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.2.0</min>
+    <max>6.0.0</max>
+    <exclude>6.0.0</exclude>
+   </php>
+   <pearinstaller>
+    <min>1.6.2</min>
+   </pearinstaller>
+  </required>
+ </dependencies>
+ <phprelease />
+</package>

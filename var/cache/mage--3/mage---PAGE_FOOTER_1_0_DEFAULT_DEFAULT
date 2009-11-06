@@ -1,0 +1,19 @@
+<div class="informational">
+    <ul>
+<li><a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/?___SID=Uabout-magento-demo-store">About Us</a></li>
+<li class="last"><a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/?___SID=Ucustomer-service">Customer Service</a></li>
+</ul>    <div>
+        <ul>
+                            <li  class="first"><a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/catalog/seo_sitemap/category/?___SID=U" title="Mapa do site" >Mapa do site</a></li>
+                            <li ><a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/catalogsearch/term/popular/?___SID=U" title="Termos de busca" >Termos de busca</a></li>
+                            <li ><a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/catalogsearch/advanced/?___SID=U" title="Busca avançada" >Busca avançada</a></li>
+                            <li  class="last"><a href="http://clientes.octagonoecommerce.com.br/notfound/sensus/contacts/?___SID=U" title="Fale conosco" >Fale conosco</a></li>
+                    </ul>
+   </div>
+</div>
+<p class="legality">
+Ajude-nos a manter a qualidade do magento - <a href="http://www.magentocommerce.com/bug-tracking" id="bug_tracking_link"><strong>Reportar todos os bugs</strong></a> (ver. 1.3.2.4)<br />
+<script type="text/javascript">
+    $('bug_tracking_link').target = "varien_external";
+</script>
+&copy; 2008 Magento Demo Store. All Rights Reserved.</p>

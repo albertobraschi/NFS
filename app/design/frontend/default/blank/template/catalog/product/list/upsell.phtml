@@ -1,0 +1,28 @@
+
+
+<?php if(count($this->getItemCollection()->getItems())): ?>
+        <div class="box-side">
+          <h3 class="compreJunto"><?php echo $this->__('Compre Junto') ?></h3>
+          <div class="box-side-center">
+
+            <?php $this->resetItemsIterator() ?>
+            <?php if($_link=$this->getIterableItem()): ?>
+              <div class="compraConjunta">
+                 <img src="<?php echo $this->helper('catalog/image')->init($_link, 'small_image')->resize(125) ?>" width="125" height="125" alt="<?php echo $this->htmlEscape($_link->getName()) ?>" title="<?php echo $this->htmlEscape($_link->getName()) ?>" />
+                  <h4><?php echo $this->htmlEscape($_link->getName()) ?></h4>
+                <?php echo $this->getPriceHtml($_link, true) ?>
+                  <p>
+                      <span class="de"> de R$ 65,90</span>
+                      <span class="por">por R$ 59,90</span>
+                      <span class="economize">Economize R$ 34,00</span>
+                      <span class="cartao">Em 3x R$ 19,97 no cartão</span>
+                  </p>
+                  <button class="button" type="submit">Comprar</button>
+              </div>
+            <?php endif; ?>
+
+          </div>
+          <span class="box-side-close"></span>
+        </div>
+<?php endif ?>
+

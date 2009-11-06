@@ -1,0 +1,28 @@
+<?php
+// You can pass a $totalToFetch parametar to the fetchBestsellers()
+// $_productCollection = $this->fetchBestsellers(5);
+$_productCollection = $this->fetchBestsellers();
+$_collectionSize = count($_productCollection);
+?>
+
+
+<?php if(count($_productCollection) > 0): ?>
+<div class="box-side">
+  <h3 class="mais-vendidos">Produtos mais vendidos</h3>
+  <div class="box-side-center">
+<?php $_collectionSize = count($_productCollection) ?>
+    <?php $i=0; foreach ($_productCollection as $_product): ?>
+        <?php if($i++%3==0): ?>
+    <ul class="mais-vendidos-list">
+        <?php endif; ?>
+           <li>
+               <a href="<?php echo $_product->getProductUrl() ?>" title="<?php echo $this->htmlEscape($this->getImageLabel($_product, 'small_image')) ?>"><img src="<?php echo $this->helper('catalog/image')->init($_product, 'small_image')->resize(50, 50); ?>" width="50" height="50" alt="<?php echo $this->htmlEscape($this->getImageLabel($_product, 'small_image')) ?>" title="<?php echo $this->htmlEscape($this->getImageLabel($_product, 'small_image')) ?>" /><?php echo $this->htmlEscape($_product->getName()) ?><br /><span>R$ 59,00</span></a>
+            </li>
+        <?php if($i%3==0 || $i==$_collectionSize): ?>
+    </ul>
+        <?php endif; ?>
+    <?php endforeach ?>
+    </div>
+<span class="box-side-close"></span> </div>
+<?php endif; ?>
+

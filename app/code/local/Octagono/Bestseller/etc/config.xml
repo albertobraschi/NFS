@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <Octagono_Bestseller>
+            <version>1.0.0</version>
+        </Octagono_Bestseller>
+    </modules>
+
+	<frontend>
+        <layout>
+            <updates>
+                <bestseller>
+                    <file>Octagono_bestseller.xml</file>
+                </bestseller>
+            </updates>
+        </layout>
+	</frontend>
+
+	<global>
+		<models>
+			<bestseller>
+				<class>Octagono_Bestseller_Model</class>
+			</bestseller>
+		</models>
+
+
+        <blocks>
+            <bestseller>
+                <class>Octagono_Bestseller_Block</class>
+            </bestseller>
+        </blocks>
+
+	</global>
+
+</config>
+

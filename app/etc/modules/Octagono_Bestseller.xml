@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <Octagono_Bestseller>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Octagono_Bestseller>
+    </modules>
+</config>
+
